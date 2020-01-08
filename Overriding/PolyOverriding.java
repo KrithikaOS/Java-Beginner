@@ -1,4 +1,4 @@
-public class Polyoverriding {
+public class PolyOverriding {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Numbers num= new Numbers();
