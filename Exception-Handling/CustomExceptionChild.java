@@ -1,5 +1,5 @@
 public class CustomExceptionChild {
-	static void validate(int age)throws CustomExceptionParent{  
+	static void validate(int age)throws CustomExceptionParent{  //checked Exception
 	     if(age<18)  
 	      throw new CustomExceptionParent("not valid");  
 	     else  
