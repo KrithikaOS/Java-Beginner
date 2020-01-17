@@ -13,7 +13,7 @@ public class Encapsulation {
 		return age;
 	}
 	public void setName(String name) {
-		this.name=name; // setter method
+		this.name=name; // setter methodGIT 
 		
 	}public void setAge(int age) {
 		this.age=age;
